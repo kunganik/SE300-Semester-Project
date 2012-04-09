@@ -1,5 +1,5 @@
 
-public class TempuratureUnitConverter {
+public class TemperatureUnitConverter {
 
 	public static double convertFromCelsiusToFahrenheit(String input) {
 		
