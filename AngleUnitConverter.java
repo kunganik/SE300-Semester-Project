@@ -5,7 +5,7 @@ public class AngleUnitConverter {
 
 		double initialValue = 0.0;
 		double finalValue = 0.0;
-		double conversionFactor = Math.PI/360;
+		double conversionFactor = Math.PI/180;
 
 		initialValue = Double.parseDouble(input);
 
@@ -18,7 +18,7 @@ public class AngleUnitConverter {
 
 		double initialValue = 0.0;
 		double finalValue = 0.0;
-		double conversionFactor = 360/Math.PI;
+		double conversionFactor = 180/Math.PI;
 
 		initialValue = Double.parseDouble(input);
 
